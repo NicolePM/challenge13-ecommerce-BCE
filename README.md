@@ -1,7 +1,10 @@
 
 # ecommerce-backend
-
+Internet retail, also known as **e-commerce**, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes.
 This is a node.js backend for an e-commerce site utilizing mysql2, sequalize, and express.
+
+## Built with
+- JavaScript
 
 ## Table of Contents
 * [Ecommerce Backend Demo](#ecommerce-backend-demo)
@@ -11,11 +14,9 @@ This is a node.js backend for an e-commerce site utilizing mysql2, sequalize, an
 * [Credits](#credits)
 * [License](#license)
 
-## Ecommerce Backend Demo
+### Video demonstration- Ecommerce Backend Demo
 
-### Video demonstration
-
-
+https://watch.screencastify.com/v/2sBBpWMj1lyXz9pGz3DJ
 
 ## Installation
 
